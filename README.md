@@ -247,12 +247,6 @@ studymate-ai/
 
 ---
 
-## 📜 License
-
-This project is built for a hackathon and is open-source under the [MIT License](LICENSE).
-
----
-
 <div align="center">
 
 **Built with ❤️ for Hackathon | Powered by Google Gemini AI**
