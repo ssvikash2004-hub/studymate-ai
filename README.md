@@ -73,18 +73,26 @@ All AI calls go through a centralized `_chat()` function in the backend, ensurin
 
 ## 🖼️ Proof of Google AI Usage
 
-> Add screenshots showing Gemini API calls, responses, or OpenRouter dashboard usage to the `/proof` folder.
+The following screenshots demonstrate that **Google Gemini 2.0 Flash Lite** is used as the AI backbone:
 
-![AI Proof 1](./proof/screenshot1.png)
+### API Endpoints Powered by Gemini
+![StudyMate AI API - FastAPI Swagger Docs showing all AI endpoints](./proof/screenshot1.png)
+
+### Gemini Model Integration Code
+![Gemini service code showing google/gemini-2.0-flash-lite-001 model usage](./proof/screenshot2.png)
 
 ---
 
 ## 📸 Screenshots
 
-> Add project screenshots to the `/assets` folder.
+### 🏠 Landing Page
+![Landing Page - Study Smarter, Not Harder hero with feature grid](./assets/screenshot1.png)
 
-![Landing Page](./assets/screenshot1.png)
-![App Workspace](./assets/screenshot2.png)
+### 📄 App Workspace — File Upload
+![App Workspace showing upload panel with sidebar navigation](./assets/screenshot2.png)
+
+### 📅 Study Plan Generator
+![Study Plan Generator with subject, topics, exam date, and hours inputs](./assets/screenshot3.png)
 
 ---
 
