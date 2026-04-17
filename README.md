@@ -77,29 +77,29 @@ All AI calls go through a centralized `_chat()` function in the backend, ensurin
 ## 🖼️ Proof of Google AI Usage
 
 ### API Key
-![Generation of API Key using AI Studio](./proof/Gstudio.jpg)
+![Generation of API Key using AI Studio](./proof/Gstudio.jpeg)
 
 ### Gemini in Antigravity
-![Use of Gemini in Antigravity](./proof/Antigravity.jpg)
+![Use of Gemini in Antigravity](./proof/Antigravity.jpeg)
 
 ### Gemini Model Integration Code
-![Gemini service code showing google/gemini-2.0-flash-lite-001 model usage](./proof/screenshot1.jpg)
+![Gemini service code showing google/gemini-2.0-flash-lite-001 model usage](./proof/screenshot1.jpeg)
 
 ---
 
 ## 📸 Screenshots
 
 ### 📄 App Workspace — File Upload
-![App Workspace showing upload panel with sidebar navigation](./proof/Upload_file.jpg)
-![Result](./proof/Generated_result.jpg)
+![App Workspace showing upload panel with sidebar navigation](./proof/Upload_file.jpeg)
+![Result](./proof/Generated_result.jpeg)
 
 ### 📅 Study Plan Generator
-![Study Plan Generator with subject, topics, exam date, and hours inputs](./proof/Study_plan.jpg)
-![Study Plan Initializes](./proof/Study_plan_initialize.jpg)
+![Study Plan Generator with subject, topics, exam date, and hours inputs](./proof/Study_plan.jpeg)
+![Study Plan Initializes](./proof/Study_plan_initialize.jpeg)
 
 
 ### 🏠 Q&A Page
-![Landing Page - Study Smarter, Not Harder hero with feature grid](./proof/Q&A_chat.jpg)
+![Landing Page - Study Smarter, Not Harder hero with feature grid](./proof/Q&A_chat.jpeg)
 
 ---
 
