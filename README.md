@@ -230,7 +230,8 @@ studymate-ai/
 
 | Name | Role |
 |---|---|
-| Your Name | Full Stack Developer |
+| Vikash SS | Backend |
+| EV Aswin | Frontend |
 
 ---
 
