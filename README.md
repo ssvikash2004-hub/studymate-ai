@@ -54,6 +54,9 @@ There is a clear need for an intelligent tool that can:
 
 - **Google Gemini 2.0 Flash Lite** (`google/gemini-2.0-flash-lite-001`) — via OpenRouter API
 - **Google AI Python SDK** (`google-generativeai`) — listed as a project dependency
+- **Google AI Studio** — For API access and configuration
+- **Antigravity** — Text editor with an integrated AI agent used for development
+  
 
 ### How Google AI Was Used
 
@@ -73,34 +76,36 @@ All AI calls go through a centralized `_chat()` function in the backend, ensurin
 
 ## 🖼️ Proof of Google AI Usage
 
-The following screenshots demonstrate that **Google Gemini 2.0 Flash Lite** is used as the AI backbone:
+### API Key
+![Generation of API Key using AI Studio](./proof/Gstudio.jpg)
 
-### API Endpoints Powered by Gemini
-![StudyMate AI API - FastAPI Swagger Docs showing all AI endpoints](./proof/screenshot1.png)
+### Gemini in Antigravity
+![Use of Gemini in Antigravity](./proof/Antigravity.jpg)
 
 ### Gemini Model Integration Code
-![Gemini service code showing google/gemini-2.0-flash-lite-001 model usage](./proof/screenshot2.png)
+![Gemini service code showing google/gemini-2.0-flash-lite-001 model usage](./proof/screenshot1.jpg)
 
 ---
 
 ## 📸 Screenshots
 
-### 🏠 Landing Page
-![Landing Page - Study Smarter, Not Harder hero with feature grid](./assets/screenshot1.png)
-
 ### 📄 App Workspace — File Upload
-![App Workspace showing upload panel with sidebar navigation](./assets/screenshot2.png)
+![App Workspace showing upload panel with sidebar navigation](./proof/Upload_file.jpg)
+![Result](./proof/Generated_result.jpg)
 
 ### 📅 Study Plan Generator
-![Study Plan Generator with subject, topics, exam date, and hours inputs](./assets/screenshot3.png)
+![Study Plan Generator with subject, topics, exam date, and hours inputs](./proof/Study_plan.jpg)
+![Study Plan Initializes](./proof/Study_plan_initialize.jpg)
+
+
+### 🏠 Q&A Page
+![Landing Page - Study Smarter, Not Harder hero with feature grid](./proof/Q&A_chat.jpg)
 
 ---
 
 ## 🎬 Demo Video
 
-> Upload your demo video to Google Drive and paste the shareable link below (max 3 minutes).
-
-[▶️ Watch Demo](#)
+[▶️ Watch Demo](https://youtu.be/REu21IwGw4o)
 
 ---
 
@@ -211,8 +216,7 @@ studymate-ai/
 │   ├── lib/
 │   │   └── api.ts               # API client for backend calls
 │   └── package.json             # Node dependencies
-├── proof/                       # Google AI usage screenshots
-├── assets/                      # Project screenshots
+├── proof/                       # Google AI usage screenshots & Project screenshots
 └── README.md
 ```
 
