@@ -83,7 +83,7 @@ All AI calls go through a centralized `_chat()` function in the backend, ensurin
 ![Use of Gemini in Antigravity](./proof/Antigravity.jpeg)
 
 ### Gemini Model Integration Code
-![Gemini service code showing google/gemini-2.0-flash-lite-001 model usage](./proof/screenshot1.jpeg)
+![Gemini service code showing google/gemini-2.0-flash-lite-001 model usage](./proof/screenshot1.png)
 
 ---
 
